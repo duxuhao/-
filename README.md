@@ -129,27 +129,27 @@ Australia&emsp;&emsp;&emsp;&emsp;&emsp;[Github](https://github.com/duxuhao)
 
      * Python/Matlab/R/C++/Java
      * Tensorflow
-     * Cloud computing/Spark
+     * 云计算/Spark
          
 * 声学方向:
 
-     * Signal Processing
-     * Model Analysis
-     * Achitectural Acoustics
+     * 信号处理
+     * 模态分析
+     * 建筑声学
      
 * 自然语言:
 
-     * Cantonese (native speaker)
-     * Chinese
-     * English
+     * 粤语 (母语)
+     * 普通话
+     * 英语
 
 * 兴趣:
 
-     * Basketball [Champion!](https://www.facebook.com/pg/UWABasketballClub/photos/?tab=album&album_id=485737261623448)
-     * Data Mining Competitions
-     * Acting ([moive](http://new-play.tudou.com/v/162380334.html?spm=a2h0k.8191414.0.0&from=s1.8-1-1.2), drama)
-     * Travel
-     * Comic
+     * 篮球 [Champion!](https://www.facebook.com/pg/UWABasketballClub/photos/?tab=album&album_id=485737261623448)
+     * 数据挖掘比赛
+     * 表演 ([moive](http://new-play.tudou.com/v/162380334.html?spm=a2h0k.8191414.0.0&from=s1.8-1-1.2), drama)
+     * 旅行
+     * 漫画
 
 部分奖项
 ----------------------------------------
