@@ -59,7 +59,7 @@ Australia&emsp;&emsp;&emsp;&emsp;&emsp;[Github](https://github.com/duxuhao)
 部分比赛经历
 ----------
 
-***1st / 2000+*** (Sep. 2016 – Oct. 2016)
+***Top 1 / 2000+*** (Sep. 2016 – Oct. 2016)
 
 - 预测判断用户是否进行二次贷款的 -- *融360*
 
@@ -67,7 +67,7 @@ Australia&emsp;&emsp;&emsp;&emsp;&emsp;[Github](https://github.com/duxuhao)
 
 * [比赛网站](http://openresearch.rong360.com/dataanalysis2016/index/#right-shouye)  [比赛报道](http://news.qlwb.com.cn/2016/1028/762071.shtml)
 
-***12nd / 5000+*** (Apr. 2018 – May 2018)
+***Top 12 / 5000+*** (Apr. 2018 – May 2018)
 
 - 预测广告转换点击率 -- *IJCAI-2018/天池*
 
@@ -75,7 +75,7 @@ Australia&emsp;&emsp;&emsp;&emsp;&emsp;[Github](https://github.com/duxuhao)
 
 * [比赛网站](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.11409106.5678.1.70604055JiOpvu&raceId=231647&_lang=en_US)  [代码](https://github.com/duxuhao/Feature-Selection).
 
-***Top 10 (tempeorary) / 3000+*** (May 2018 – June 2018)
+***Top 6 / 3000+*** (May 2018 – July 2018)
 
 - 预测用户购买意愿与时间 -- *京东*
 
@@ -91,7 +91,7 @@ Australia&emsp;&emsp;&emsp;&emsp;&emsp;[Github](https://github.com/duxuhao)
 
 * [比赛网站](https://unearthed.solutions/perth-hackathon-unearths-a-gold-mine-of-valuable-solutions-for-newcrest-and-south32/)  [代码](https://github.com/duxuhao/Hackathon2017Perth).
 
-***19st / 3000+*** (Apr. 2016 – May 2016)
+***Top 19 / 3000+*** (Apr. 2016 – May 2016)
 
 - 预测特定时间地点的出租车缺口数量 -- *滴滴出行*
 
@@ -108,7 +108,7 @@ Australia&emsp;&emsp;&emsp;&emsp;&emsp;[Github](https://github.com/duxuhao)
 
 - 通过随机森林进行挂墙稳定性预测 [paper](https://link.springer.com/article/10.1007%2Fs11069-018-3246-7)
 
-**建立开源特征选择代码库 (160+ stars)**
+**建立开源特征选择代码库 (200+ stars)**
 
 -  通过多种方法对特征进行有效的选择 [repo](https://github.com/duxuhao/Feature-Selection), [pip](https://pypi.org/project/MLFeatureSelection/)
 
